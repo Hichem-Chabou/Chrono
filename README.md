@@ -20,4 +20,7 @@ npm start
 yarn start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.  
+
+## Screenshot  
+![Home](https://github.com/Hichem-Chabou/Chrono/blob/main/src/chrono.JPG)  
