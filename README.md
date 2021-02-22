@@ -1,6 +1,8 @@
 # Chrono
 A simple chronometer app made with React and Typescript  
-Demo: https://chronoapp.surge.sh/
+
+## Demo  
+Here's a live demo: https://chronoapp.surge.sh/  
 
 ## Getting Started
 
