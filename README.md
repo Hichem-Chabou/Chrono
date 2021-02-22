@@ -19,7 +19,7 @@ Move into the project directory
 cd chrono
 ```
 
-install the dependencies
+Install the dependencies
 
 ```bash
 npm i
@@ -27,7 +27,7 @@ npm i
 yarn install
 ```
 
-start the development server:
+Start the development server:
 
 ```bash
 npm start
