@@ -12,7 +12,7 @@ npm i
 yarn install
 ```
 
-Next, run the development server:
+Next, start the development server:
 
 ```bash
 npm start
