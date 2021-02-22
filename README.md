@@ -9,9 +9,17 @@ Here's a live demo: https://chronoapp.surge.sh/
 - ![Create-React-App](https://create-react-app.dev/)  
 - ![Typescript](https://www.typescriptlang.org/)  
 
-## Getting Started
+## Getting Started  
+Clone the repo  
+```bash 
+git clone https://github.com/Hichem-Chabou/Chrono.git
+```
+Move into the project directory  
+```bash 
+cd chrono
+```
 
-First, install the dependencies
+install the dependencies
 
 ```bash
 npm i
@@ -19,7 +27,7 @@ npm i
 yarn install
 ```
 
-Next, start the development server:
+start the development server:
 
 ```bash
 npm start
