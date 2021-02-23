@@ -5,9 +5,9 @@ A simple chronometer app made with React and Typescript
 Here's a live demo: https://chronoapp.surge.sh/  
 
 ## Built With  
-- ![React](https://reactjs.org/)  
-- ![Create-React-App](https://create-react-app.dev/)  
-- ![Typescript](https://www.typescriptlang.org/)  
+* [React](https://reactjs.org/)  
+* [Create-React-App](https://create-react-app.dev/)  
+* [Typescript](https://www.typescriptlang.org/)  
 
 ## Getting Started  
 Clone the repo  
