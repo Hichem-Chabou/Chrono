@@ -39,3 +39,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshot :camera:  
 ![Home](https://github.com/Hichem-Chabou/Chrono/blob/main/src/chrono.JPG)  
+
+## License :scroll:  
+[MIT](https://github.com/Hichem-Chabou/Chrono/blob/main/LICENSE)
